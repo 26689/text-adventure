@@ -1,0 +1,32 @@
+body {
+  text-align: left;
+  background-color: #000000;
+  color: red;
+}
+
+.container{
+  width: 600px;
+  margin: auto;
+  background-color: aliceblue;
+  padding: 20px;
+  border: blue 3px solid;
+  border-radius: 10px;
+}
+
+#feedback{
+  background-color: yellow;
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 40%;
+  }
+
+  @media only screen and (max-width: 768px) {
+    img {
+      width: 60%;
+    }
