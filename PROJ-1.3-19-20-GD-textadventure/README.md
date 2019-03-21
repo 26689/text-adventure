@@ -14,6 +14,6 @@ Ontsnap uit het kasteel door sleutel te zoeken en te gebruiken bij uitgang.
 |<img width=500/>|<img width=300/>|
 
 
-   [LiveDemo]: <http://sjo.hosts.ma-cloud.nl/2018_2019/PROJ-1.3-19-20-GD-textadventure/>
+   [LiveDemo]: <http://26689.hosts2.ma-cloud.nl/bewijzenmap/periode%201.3/proj/PROJ-1.3-19-20-GD-textadventure/index.html/>
    [Design]: <docs/design.png>
    [Map]:<docs/map.png>
